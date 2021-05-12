@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+/*
+
+.ThatsDesign-Marketing-Orange-&-Teal-1-hex { color: #1E2735; }
+.ThatsDesign-Marketing-Orange-&-Teal-2-hex { color: #162E3B; }
+.ThatsDesign-Marketing-Orange-&-Teal-3-hex { color: #054C5A; }
+.ThatsDesign-Marketing-Orange-&-Teal-4-hex { color: #005F60; }
+.ThatsDesign-Marketing-Orange-&-Teal-5-hex { color: #FE8C03; }
+
+*/
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: linear-gradient(to right, #005F60, #1E2735);
+}
+
+main {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px #fe8d038f;
+  width: 600px;
+  padding: 10px;
+  margin: auto;
+}
+
+h1 {
+  color: #162E3B;
+  text-align: center;
+  text-shadow: 1px 1px 0px #d3d1d1;
+}
+
+h2 {
+  color: #054C5A;
+}
+
+
+p {
+  text-align: justify;
+}
